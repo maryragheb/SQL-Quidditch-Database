@@ -11,6 +11,8 @@
     Where [username] and [password] are the username and password of your mySQL server.
      	(ex: java -jar Project.jar root p@ssword!)
 
+*Admin Password = "goldenSnitch"
+
 ## Section 2: Technical specifications
 The database for this project was created in MySQL. The backend code that is used to connect to the database is written in Java and the “front end” GUI is written using Java Swing. Creately was used to create the ERD diagram for planning and reference purposes.
 
