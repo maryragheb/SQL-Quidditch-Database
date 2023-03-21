@@ -1,6 +1,5 @@
 # SQL-Quidditch-Database
-The Continued History of Quidditch at Hogwarts
-Mary Ragheb, Katherine Nikolov, Luke Ackerman
+# The Continued History of Quidditch at Hogwarts
 
 ## Section 1: Steps to Run the Application
 1. Open a terminal
