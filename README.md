@@ -1,5 +1,6 @@
 # SQL-Quidditch-Database
 # The Continued History of Quidditch at Hogwarts
+Creators: Mary Ragheb, Katherine Nikolov, Luke Ackerman
 
 ## Section 1: Steps to Run the Application
 1. Open a terminal
